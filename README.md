@@ -1,6 +1,6 @@
 # DiffPressute Unit
 
-<img src="https://github.com/akita11/DiffPressureUNIT/blob/main/DiffPressureUNIT.jpg" width="320px">
+<img src="https://github.com/akita11/DifferentialPressureUNIT/blob/main/DiffPressureUNIT.jpg" width="320px">
 
 空気の動きも検出できるSensirion社の高感度差圧センサ[SDP810-125Pa](https://www.sensirion.com/jp/products/product-catalog/SDP810-125Pa/)で2つの口の差圧を計測し、Groveポートから計測値を送出します。計測値は搭載するATOM S3上のディスプレイで確認できます。計測されたデータは、Core2等で利用できます。（[使用例](https://twitter.com/akita11/status/1758277269104336898)）
 
@@ -14,7 +14,7 @@ ATOM S3のボタン（ディスプレイ面）で以下のように設定を変�
 
 ## UIFlowでの使い方
 
-<img src="https://github.com/akita11/DiffPressureUNIT/blob/main/UIFlow_sample.png" width="320px">
+<img src="https://github.com/akita11/DifferentialPressureUNIT/blob/main/UIFlow_sample.png" width="320px">
 
 UIFlow用のカスタムブロックを用意してあります（現時点ではCore2専用ですがピン割当を変更することで他のCore Basic等でも利用可能）。
 
