@@ -18,6 +18,7 @@ ATOM S3のボタン（ディスプレイ面）で以下のように設定を変�
 
 UIFlow用のカスタムブロックを用意してあります（現時点ではCore2専用ですがピン割当を変更することで他のCore Basic等でも利用可能）。
 
+- Core2のPortAに、本UnitのGroveポート(ATOM S3上)からのGroveケーブルを接続します
 - UIFlowの"Custom"の"Open *.m5b"から、UIFlow/DiffPressureUNIT.m5b を開く→Custom内に"DiffPressureUnit"が追加される
 - UIFlow/DiffPressureUNIT_sample.m5f"を参考に利用できます
 - （得られる数値と実際の圧力との関係は後述）
